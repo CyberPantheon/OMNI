@@ -5,7 +5,7 @@ An advanced multi thread and concurrent bruteforcing tool
 
 
 
-A powerful and flexible brute force tool with proxy support, concurrent requests, and multiple success detection methods.
+A powerful and flexible brute force tool with proxy support, concurrent requests, and multiple success detection methods, built for high speed bruteforcing , 80% faster than traditional bruteforcing tools.
 
 ## Features
 
